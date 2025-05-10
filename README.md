@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#ff69b4;">Olá 👋, eu sou a Alana</h1>
+<h1 align="center" style="color:#ff69b4;">Olá, eu sou a Alana</h1>
 <h3 align="center" style="color:#ff69b4;">QA Engineer | Cursando Engenharia de Software na UTFPR </h3>
 
 <p align="center">
