@@ -9,7 +9,7 @@
 
 ## Sobre mim
 
-- 💼 Engenheira de QA com **3 anos de experiência**
+- 💼 Analista de QA com **3 anos de experiência**
 - ✅ Experiência em **automação de testes**, **qualidade de software** e **resolução de problemas**
 - 👩‍🎓 Formada em Técnico em Informática no IFPR
 - 👩‍💻 Grande interesse na área de **desenvolvimento mobile**
