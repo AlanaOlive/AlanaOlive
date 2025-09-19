@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#ff69b4;">Olá, eu sou a Alana</h1>
-<h3 align="center" style="color:#ff69b4;">QA Engineer | Cursando Engenharia de Software na UTFPR </h3>
+<h3 align="center" style="color:#ff69b4;">Analista de QA| Cursando Engenharia de Software na UTFPR </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlanaOlive&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=ff69b4&style=flat" alt="AlanaOlive" />
@@ -10,9 +10,10 @@
 ## Sobre mim
 
 - 💼 Engenheira de QA com **3 anos de experiência**
-- 🧪 Experiência em **automação de testes**, **qualidade de software** e **resolução de problemas**
+- ✅ Experiência em **automação de testes**, **qualidade de software** e **resolução de problemas**
 - 👩‍🎓 Formada em Técnico em Informática no IFPR
 - 👩‍💻 Grande interesse na área de **desenvolvimento mobile**
+- 💻 Cursando Engenharia de Software na UTFPR
 
 ---
 
