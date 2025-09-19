@@ -39,14 +39,6 @@
 
 ---
 
-## Contribuições
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlanaOlive&theme=tokyonight&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
-</div>
-
----
-
 ## 🌐 Contato
 
 <p align="left">
